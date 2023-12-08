@@ -29,3 +29,116 @@ basically everything that's not a top/middle word, subdivided into:
 - middle word
 - top word
 (ex. _µja_ - daytime)
+
+## phonology
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File
+href="file:///C:/Users/Adrian/AppData/Local/Temp/msohtmlclip1/01/clip.htm">
+<link rel=File-List
+href="file:///C:/Users/Adrian/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl63
+	{color:white;
+	background:#595959;
+	mso-pattern:black none;}
+.xl64
+	{color:white;
+	background:#BFBFBF;
+	mso-pattern:black none;}
+.xl65
+	{color:#0D0D0D;
+	background:#BFBFBF;
+	mso-pattern:black none;}
+.xl66
+	{color:#0D0D0D;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	background:#BFBFBF;
+	mso-pattern:black none;}
+.xl67
+	{color:white;
+	background:#2F75B5;
+	mso-pattern:black none;}
+.xl68
+	{color:white;
+	background:#375623;
+	mso-pattern:black none;}
+.xl69
+	{color:#0D0D0D;
+	background:#595959;
+	mso-pattern:black none;}
+.xl70
+	{background:#595959;
+	mso-pattern:black none;}
+.xl71
+	{background:#BFBFBF;
+	mso-pattern:black none;}
+.xl72
+	{background:#F8CBAD;
+	mso-pattern:black none;}
+-->
+
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+
+I, u, o,   a, œ |   | Labial | Alveolar | Post-alveolar | Palatal | Velar | Glottal | labial velar
+-- | -- | -- | -- | -- | -- | -- | -- | --
+Nasal |   | m | n |   |   |   |   |  
+Plosive/affricate | fortis | p | t |   |   | k |   |  
+  | lenis | b | d | dʒ |   | ɡ |   |  
+Tap |   |   | ɾ |   |   |   |   |  
+Fricative | fortis | f | s |   |   | x | h |  
+  | lenis | v |   |   |   |   |   |  
+Approximant |   |   | l |   | j |   |   |  
+  | voiced |   |   |   |   |   |   | w
+
+
+
+</body>
+
+</html>
+
+that's all!
